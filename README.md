@@ -25,4 +25,7 @@ Generated images
 Plots
 -----
 
+![loss_fake](https://user-images.githubusercontent.com/7283046/27980297-1adab70c-634b-11e7-8908-f7431f04c06b.png)
+![loss_gen](https://user-images.githubusercontent.com/7283046/27980298-1adbd16e-634b-11e7-9c03-a461c7e04770.png)
+![loss_real](https://user-images.githubusercontent.com/7283046/27980296-1ad69528-634b-11e7-8f2a-99c7cd16ea1b.png)
 
