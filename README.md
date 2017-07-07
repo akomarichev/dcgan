@@ -1,4 +1,4 @@
-# dcgan
+# DCGAN on MNIST
 
 Concise implementation of DCGAN model, [introduced by Alec Radford, et al.](https://arxiv.org/abs/1511.06434), on MNIST dataset.
 
