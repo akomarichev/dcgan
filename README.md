@@ -25,6 +25,4 @@ Generated images
 Plots
 -----
 
-<img src=https://user-images.githubusercontent.com/7283046/27980297-1adab70c-634b-11e7-8908-f7431f04c06b.png width=440>
-<img src=https://user-images.githubusercontent.com/7283046/27980298-1adbd16e-634b-11e7-9c03-a461c7e04770.png width=440>
-<img src=https://user-images.githubusercontent.com/7283046/27980296-1ad69528-634b-11e7-8f2a-99c7cd16ea1b.png width=440>
+<img src=https://user-images.githubusercontent.com/7283046/27980297-1adab70c-634b-11e7-8908-f7431f04c06b.png width=440><img src=https://user-images.githubusercontent.com/7283046/27980298-1adbd16e-634b-11e7-9c03-a461c7e04770.png width=440><img src=https://user-images.githubusercontent.com/7283046/27980296-1ad69528-634b-11e7-8f2a-99c7cd16ea1b.png width=440>
