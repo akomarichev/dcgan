@@ -1,3 +1,5 @@
 # exclude the following files
 *.jpg
 *.txt
+*.png
+gen_images/
