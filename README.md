@@ -20,6 +20,8 @@ How to run
 Generated images
 -----
 
+![mnist_generated](https://user-images.githubusercontent.com/7283046/27980277-df861a48-634a-11e7-828e-5982b58f9050.gif)
+
 Plots
 -----
 
