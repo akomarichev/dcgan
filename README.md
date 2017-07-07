@@ -1,5 +1,6 @@
 # dcgan
 
+Concise implementation of DCGAN model [] on MNIST dataset.
 
 Requirements
 ------------
@@ -7,3 +8,6 @@ Requirements
 The following luarocks package is required:
 
 - mnist
+
+Plots
+-----
